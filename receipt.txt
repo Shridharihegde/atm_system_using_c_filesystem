@@ -1,0 +1,1694 @@
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10.00
+New Account Balance: $9830.00
+ATM Balance: $99720.00
+Transaction Date: 2023-10-28 20:50:08
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $25000.00
+New Account Balance: $25000.00
+ATM Balance: $49720.00
+Transaction Date: 2023-10-28 20:51:43
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $25000.00
+New Account Balance: $0.00
+ATM Balance: $-280.00
+Transaction Date: 2023-10-28 20:51:49
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $25000.00
+New Account Balance: $25000.00
+ATM Balance: $50000.00
+Transaction Date: 2023-10-28 21:08:14
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $25000.00
+New Account Balance: $0.00
+ATM Balance: $0.00
+Transaction Date: 2023-10-28 21:08:21
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $25000.00
+New Account Balance: $25000.00
+ATM Balance: $50000.00
+Transaction Date: 2023-10-28 21:11:51
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $25000.00
+New Account Balance: $0.00
+ATM Balance: $0.00
+Transaction Date: 2023-10-28 21:11:56
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $25000.00
+New Account Balance: $25000.00
+ATM Balance: $50000.00
+Transaction Date: 2023-10-28 21:15:03
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: RADHIKA
+Account Number: 9876213210
+Card Serial Number: 1478965234
+Transaction Amount: $10.00
+New Account Balance: $9890.00
+ATM Balance: $49980.00
+Transaction Date: 2023-10-28 21:15:51
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10.00
+New Account Balance: $9890.00
+ATM Balance: $49960.00
+Transaction Date: 2023-10-28 21:26:55
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10.00
+New Account Balance: $9880.00
+ATM Balance: $49940.00
+Transaction Date: 2023-10-28 21:41:29
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10.00
+New Account Balance: $9870.00
+ATM Balance: $49920.00
+Transaction Date: 2023-10-28 21:44:35
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10.00
+New Account Balance: $9860.00
+ATM Balance: $49900.00
+Transaction Date: 2023-10-28 21:53:04
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10.00
+New Account Balance: $9850.00
+ATM Balance: $49880.00
+Transaction Date: 2023-10-28 21:55:25
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10.00
+New Account Balance: $9840.00
+ATM Balance: $49860.00
+Transaction Date: 2023-10-28 21:57:42
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10.00
+New Account Balance: $9830.00
+ATM Balance: $49840.00
+Transaction Date: 2023-10-28 22:02:05
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: SHRDHARI
+Account Number: 9876543245
+Card Serial Number: 4598765489
+Transaction Amount: $10.00
+New Account Balance: $410.00
+ATM Balance: $49840.00
+Transaction Date: 2023-10-28 22:39:09
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $25000.00
+New Account Balance: $25000.00
+ATM Balance: $-160.00
+Transaction Date: 2023-10-28 22:40:55
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $25000.00
+New Account Balance: $0.00
+ATM Balance: $50000.00
+Transaction Date: 2023-10-28 22:42:03
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $25000.00
+New Account Balance: $25000.00
+ATM Balance: $0.00
+Transaction Date: 2023-10-28 22:42:51
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $25000.00
+New Account Balance: $25000.00
+ATM Balance: $50000.00
+Transaction Date: 2023-10-28 22:43:57
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: RADHIKA
+Account Number: 9876213210
+Card Serial Number: 1478965234
+Transaction Amount: $10.00
+New Account Balance: $9890.00
+ATM Balance: $49980.00
+Transaction Date: 2023-10-28 22:44:43
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $25000.00
+New Account Balance: $25000.00
+ATM Balance: $50000.00
+Transaction Date: 2023-10-28 22:59:58
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $25000.00
+New Account Balance: $25000.00
+ATM Balance: $50000.00
+Transaction Date: 2023-10-28 23:02:26
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: SHRI
+Account Number: 147515781
+Card Serial Number: 1478523690
+Transaction Amount: $10.00
+New Account Balance: $799.00
+ATM Balance: $50000.00
+Transaction Date: 2023-10-28 23:06:09
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: SHRI
+Account Number: 147515781
+Card Serial Number: 1478523690
+Transaction Amount: $10.00
+New Account Balance: $809.00
+ATM Balance: $50000.00
+Transaction Date: 2023-10-28 23:10:21
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: SHRI
+Account Number: 147515781
+Card Serial Number: 1478523690
+Transaction Amount: $10.00
+New Account Balance: $819.00
+ATM Balance: $50000.00
+Transaction Date: 2023-10-28 23:10:21
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: SHRI
+Account Number: 147515781
+Card Serial Number: 1478523690
+Transaction Amount: $10.00
+New Account Balance: $829.00
+ATM Balance: $50000.00
+Transaction Date: 2023-10-28 23:10:21
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: SHRI
+Account Number: 147515781
+Card Serial Number: 1478523690
+Transaction Amount: $10.00
+New Account Balance: $839.00
+ATM Balance: $50000.00
+Transaction Date: 2023-10-28 23:10:21
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: SHRI
+Account Number: 147515781
+Card Serial Number: 1478523690
+Transaction Amount: $10.00
+New Account Balance: $849.00
+ATM Balance: $50000.00
+Transaction Date: 2023-10-28 23:10:22
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: RADS
+Account Number: 7534218690
+Card Serial Number: 1592634870
+Transaction Amount: $10.00
+New Account Balance: $6990.00
+ATM Balance: $49980.00
+Transaction Date: 2023-10-28 23:14:09
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: shridhari
+Account Number: 1478523694
+Card Serial Number: 1475236890
+Transaction Amount: $10.00
+New Account Balance: $7990.00
+ATM Balance: $49960.00
+Transaction Date: 2023-10-28 23:18:33
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10.00
+New Account Balance: $24990.00
+ATM Balance: $49940.00
+Transaction Date: 2023-10-28 23:20:10
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10.00
+New Account Balance: $24990.00
+ATM Balance: $49920.00
+Transaction Date: 2023-10-28 23:23:00
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10.00
+New Account Balance: $25000.00
+ATM Balance: $49920.00
+Transaction Date: 2023-10-28 23:23:16
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10.00
+New Account Balance: $24990.00
+ATM Balance: $49900.00
+Transaction Date: 2023-10-28 23:23:21
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10.00
+New Account Balance: $25000.00
+ATM Balance: $49900.00
+Transaction Date: 2023-10-28 23:24:11
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10.00
+New Account Balance: $25010.00
+ATM Balance: $49900.00
+Transaction Date: 2023-10-28 23:24:11
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10.00
+New Account Balance: $25020.00
+ATM Balance: $49900.00
+Transaction Date: 2023-10-28 23:24:11
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10.00
+New Account Balance: $25030.00
+ATM Balance: $49900.00
+Transaction Date: 2023-10-28 23:24:11
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10.00
+New Account Balance: $25040.00
+ATM Balance: $49900.00
+Transaction Date: 2023-10-28 23:24:11
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10.00
+New Account Balance: $25030.00
+ATM Balance: $49880.00
+Transaction Date: 2023-10-28 23:27:10
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10.00
+New Account Balance: $25030.00
+ATM Balance: $49860.00
+Transaction Date: 2023-10-28 23:28:56
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10.00
+New Account Balance: $25030.00
+ATM Balance: $49840.00
+Transaction Date: 2023-10-28 23:33:23
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: SHRDHARI
+Account Number: 9876543245
+Card Serial Number: 4598765489
+Transaction Amount: $10.00
+New Account Balance: $390.00
+ATM Balance: $49820.00
+Transaction Date: 2023-10-28 23:34:08
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10.00
+New Account Balance: $25020.00
+ATM Balance: $49800.00
+Transaction Date: 2023-10-28 23:36:01
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: shridhari
+Account Number: 1478523694
+Card Serial Number: 1475236890
+Transaction Amount: $10.00
+New Account Balance: $7990.00
+ATM Balance: $49780.00
+Transaction Date: 2023-10-28 23:37:04
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: shri
+Account Number: 4895632170
+Card Serial Number: 1574326980
+Transaction Amount: $10.00
+New Account Balance: $990.00
+ATM Balance: $49760.00
+Transaction Date: 2023-10-28 23:39:33
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: shri
+Account Number: 4895632170
+Card Serial Number: 1574326980
+Transaction Amount: $10.00
+New Account Balance: $990.00
+ATM Balance: $49740.00
+Transaction Date: 2023-10-28 23:40:14
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: shri
+Account Number: 4895632170
+Card Serial Number: 1574326980
+Transaction Amount: $10.00
+New Account Balance: $980.00
+ATM Balance: $49720.00
+Transaction Date: 2023-10-28 23:40:50
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: shri
+Account Number: 4895632170
+Card Serial Number: 1574326980
+Transaction Amount: $10.00
+New Account Balance: $990.00
+ATM Balance: $49700.00
+Transaction Date: 2023-10-28 23:41:28
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10.00
+New Account Balance: $24980.00
+ATM Balance: $49680.00
+Transaction Date: 2023-10-28 23:46:33
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: radhika
+Account Number: 145963270
+Card Serial Number: 1458796230
+Transaction Amount: $10.00
+New Account Balance: $1990.00
+ATM Balance: $49660.00
+Transaction Date: 2023-10-28 23:50:46
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: radhika
+Account Number: 145963270
+Card Serial Number: 1458796230
+Transaction Amount: $10.00
+New Account Balance: $1990.00
+ATM Balance: $49640.00
+Transaction Date: 2023-10-28 23:51:36
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: radhika
+Account Number: 145963270
+Card Serial Number: 1458796230
+Transaction Amount: $10.00
+New Account Balance: $1990.00
+ATM Balance: $49620.00
+Transaction Date: 2023-10-28 23:52:10
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: radhika
+Account Number: 145963270
+Card Serial Number: 1458796230
+Transaction Amount: $10.00
+New Account Balance: $1990.00
+ATM Balance: $49600.00
+Transaction Date: 2023-10-28 23:54:43
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: radhika
+Account Number: 145963270
+Card Serial Number: 1458796230
+Transaction Amount: $10.00
+New Account Balance: $1990.00
+ATM Balance: $49580.00
+Transaction Date: 2023-10-28 23:57:49
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10.00
+New Account Balance: $24970.00
+ATM Balance: $49560.00
+Transaction Date: 2023-10-28 23:58:03
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10.00
+New Account Balance: $24970.00
+ATM Balance: $49540.00
+Transaction Date: 2023-10-28 23:58:39
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: shridhari
+Account Number: 1478523694
+Card Serial Number: 1475236890
+Transaction Amount: $10.00
+New Account Balance: $7990.00
+ATM Balance: $49520.00
+Transaction Date: 2023-10-28 23:59:08
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: RADS
+Account Number: 7534218690
+Card Serial Number: 1592634870
+Transaction Amount: $10.00
+New Account Balance: $7010.00
+ATM Balance: $49520.00
+Transaction Date: 2023-10-28 23:59:44
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: radhika
+Account Number: 1478523614
+Card Serial Number: 3216549870
+Transaction Amount: $10.00
+New Account Balance: $1990.00
+ATM Balance: $49500.00
+Transaction Date: 2023-10-29 00:08:36
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: RADS
+Account Number: 7534218690
+Card Serial Number: 1592634870
+Transaction Amount: $10.00
+New Account Balance: $7000.00
+ATM Balance: $49480.00
+Transaction Date: 2023-10-29 00:09:15
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: shridhari
+Account Number: 1478523694
+Card Serial Number: 1475236890
+Transaction Amount: $100.00
+New Account Balance: $7900.00
+ATM Balance: $49280.00
+Transaction Date: 2023-10-29 00:32:35
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: rad
+Account Number: 1475236980
+Card Serial Number: 1478523690
+Transaction Amount: $10.00
+New Account Balance: $190.00
+ATM Balance: $49260.00
+Transaction Date: 2023-10-29 00:33:53
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: rad
+Account Number: 1475236980
+Card Serial Number: 1478523690
+Transaction Amount: $10.00
+New Account Balance: $180.00
+ATM Balance: $49240.00
+Transaction Date: 2023-10-29 00:34:12
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $100.00
+New Account Balance: $24870.00
+ATM Balance: $49040.00
+Transaction Date: 2023-10-29 18:56:51
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10.00
+New Account Balance: $24880.00
+ATM Balance: $49040.00
+Transaction Date: 2023-10-29 18:57:15
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $25000.00
+New Account Balance: $25000.00
+ATM Balance: $450000.00
+Transaction Date: 2023-10-29 19:05:55
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $14000.00
+New Account Balance: $36000.00
+ATM Balance: $72000.00
+Transaction Date: 2023-11-02 11:13:46
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $12000.00
+New Account Balance: $24000.00
+ATM Balance: $48000.00
+Transaction Date: 2023-11-02 11:14:17
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $15000.00
+New Account Balance: $15000.00
+ATM Balance: $18000.00
+Transaction Date: 2023-11-02 11:16:33
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: shri
+Account Number: 1246787665
+Card Serial Number: 46689907
+Transaction Amount: $14000.00
+New Account Balance: $21000.00
+ATM Balance: $-10000.00
+Transaction Date: 2023-11-02 11:20:59
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: shri
+Account Number: 1246787665
+Card Serial Number: 46689907
+Transaction Amount: $12000.00
+New Account Balance: $23000.00
+ATM Balance: $76000.00
+Transaction Date: 2023-11-02 11:23:29
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: RADS
+Account Number: 7534218690
+Card Serial Number: 1592634870
+Transaction Amount: $10.00
+New Account Balance: $6990.00
+ATM Balance: $75980.00
+Transaction Date: 2023-11-03 11:32:58
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: RADS
+Account Number: 7534218690
+Card Serial Number: 1592634870
+Transaction Amount: $10.00
+New Account Balance: $6980.00
+ATM Balance: $75960.00
+Transaction Date: 2023-11-03 11:33:03
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: RADS
+Account Number: 7534218690
+Card Serial Number: 1592634870
+Transaction Amount: $10.00
+New Account Balance: $6970.00
+ATM Balance: $75940.00
+Transaction Date: 2023-11-03 11:39:04
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: sahitya
+Account Number: 12347856632
+Card Serial Number: 1475239980
+Transaction Amount: $10.00
+New Account Balance: $20010.00
+ATM Balance: $75940.00
+Transaction Date: 2023-11-03 11:49:50
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10.00
+New Account Balance: $24960.00
+ATM Balance: $75920.00
+Transaction Date: 2023-11-03 11:50:18
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: sahitya
+Account Number: 1425879630
+Card Serial Number: 1478523691
+Transaction Amount: $10.00
+New Account Balance: $29990.00
+ATM Balance: $75900.00
+Transaction Date: 2023-11-03 12:09:49
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: sahitya
+Account Number: 1425879630
+Card Serial Number: 1478523691
+Transaction Amount: $10000.00
+New Account Balance: $19990.00
+ATM Balance: $55900.00
+Transaction Date: 2023-11-03 12:10:25
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $5000.00
+New Account Balance: $19960.00
+ATM Balance: $45900.00
+Transaction Date: 2023-11-03 12:11:57
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $5000.00
+New Account Balance: $14960.00
+ATM Balance: $35900.00
+Transaction Date: 2023-11-03 12:12:04
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $5000.00
+New Account Balance: $9960.00
+ATM Balance: $25900.00
+Transaction Date: 2023-11-03 12:12:11
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $15000.00
+New Account Balance: $10000.00
+ATM Balance: $-4100.00
+Transaction Date: 2023-11-03 12:13:40
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10000.00
+New Account Balance: $0.00
+ATM Balance: $80000.00
+Transaction Date: 2023-11-03 12:14:32
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $15000.00
+New Account Balance: $10000.00
+ATM Balance: $50000.00
+Transaction Date: 2023-11-03 12:15:19
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $5000.00
+New Account Balance: $5000.00
+ATM Balance: $40000.00
+Transaction Date: 2023-11-03 12:15:32
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $5000.00
+New Account Balance: $0.00
+ATM Balance: $30000.00
+Transaction Date: 2023-11-03 12:15:41
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $15000.00
+New Account Balance: $15000.00
+ATM Balance: $70000.00
+Transaction Date: 2023-11-03 12:16:37
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10000.00
+New Account Balance: $5000.00
+ATM Balance: $50000.00
+Transaction Date: 2023-11-03 12:16:42
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10.00
+New Account Balance: $4990.00
+ATM Balance: $49980.00
+Transaction Date: 2023-11-03 12:16:47
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $4000.00
+New Account Balance: $990.00
+ATM Balance: $41980.00
+Transaction Date: 2023-11-03 12:17:01
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $15000.00
+New Account Balance: $35000.00
+ATM Balance: $70000.00
+Transaction Date: 2023-11-03 12:17:55
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10000.00
+New Account Balance: $25000.00
+ATM Balance: $50000.00
+Transaction Date: 2023-11-03 12:18:20
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $5000.00
+New Account Balance: $20000.00
+ATM Balance: $40000.00
+Transaction Date: 2023-11-03 12:18:26
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: sahitya
+Account Number: 1425879630
+Card Serial Number: 1478523691
+Transaction Amount: $10.00
+New Account Balance: $19980.00
+ATM Balance: $39980.00
+Transaction Date: 2023-11-02 12:35:09
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $15000.00
+New Account Balance: $35000.00
+ATM Balance: $170000.00
+Transaction Date: 2023-11-02 19:22:06
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $12000.00
+New Account Balance: $23000.00
+ATM Balance: $146000.00
+Transaction Date: 2023-11-02 19:22:20
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: sahitya
+Account Number: 1425879630
+Card Serial Number: 1478523691
+Transaction Amount: $10.00
+New Account Balance: $19980.00
+ATM Balance: $145980.00
+Transaction Date: 2023-11-02 19:23:04
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: sahitya
+Account Number: 1425879630
+Card Serial Number: 1478523691
+Transaction Amount: $10.00
+New Account Balance: $19990.00
+ATM Balance: $145980.00
+Transaction Date: 2023-11-02 19:23:16
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: asdfdf
+Account Number: 1245789630
+Card Serial Number: 214785369
+Transaction Amount: $10.00
+New Account Balance: $29990.00
+ATM Balance: $145960.00
+Transaction Date: 2023-11-02 19:26:33
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: asdfdf
+Account Number: 1245789630
+Card Serial Number: 214785369
+Transaction Amount: $10.00
+New Account Balance: $30000.00
+ATM Balance: $145960.00
+Transaction Date: 2023-11-02 19:27:02
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: sumeda
+Account Number: 1478523690
+Card Serial Number: 124785369
+Transaction Amount: $15000.00
+New Account Balance: $15000.00
+ATM Balance: $115960.00
+Transaction Date: 2023-11-02 19:32:23
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: sumeda
+Account Number: 1478523690
+Card Serial Number: 124785369
+Transaction Amount: $11000.00
+New Account Balance: $4000.00
+ATM Balance: $93960.00
+Transaction Date: 2023-11-02 19:33:50
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $15000.00
+New Account Balance: $35000.00
+ATM Balance: $63960.00
+Transaction Date: 2023-11-02 19:36:19
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $11000.00
+New Account Balance: $24000.00
+ATM Balance: $41960.00
+Transaction Date: 2023-11-02 19:36:34
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $15000.00
+New Account Balance: $485000.00
+ATM Balance: $170000.00
+Transaction Date: 2023-11-02 19:39:24
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10000.00
+New Account Balance: $475000.00
+ATM Balance: $150000.00
+Transaction Date: 2023-11-02 19:39:35
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10000.00
+New Account Balance: $465000.00
+ATM Balance: $130000.00
+Transaction Date: 2023-11-02 19:41:32
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: sumeda
+Account Number: 1478523690
+Card Serial Number: 124785369
+Transaction Amount: $15000.00
+New Account Balance: $25000.00
+ATM Balance: $100000.00
+Transaction Date: 2023-11-02 19:43:33
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: sumeda
+Account Number: 1478523690
+Card Serial Number: 124785369
+Transaction Amount: $11000.00
+New Account Balance: $14000.00
+ATM Balance: $78000.00
+Transaction Date: 2023-11-02 19:43:49
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: sumeda
+Account Number: 1478523690
+Card Serial Number: 124785369
+Transaction Amount: $10.00
+New Account Balance: $13990.00
+ATM Balance: $77980.00
+Transaction Date: 2023-11-02 19:52:19
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: sumeda
+Account Number: 1478523690
+Card Serial Number: 124785369
+Transaction Amount: $15000.00
+New Account Balance: $35000.00
+ATM Balance: $47980.00
+Transaction Date: 2023-11-02 19:53:27
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: sumeda
+Account Number: 1478523690
+Card Serial Number: 124785369
+Transaction Amount: $11000.00
+New Account Balance: $24000.00
+ATM Balance: $25980.00
+Transaction Date: 2023-11-02 19:53:38
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $15000.00
+New Account Balance: $450000.00
+ATM Balance: $470000.00
+Transaction Date: 2023-11-02 19:55:56
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $11000.00
+New Account Balance: $439000.00
+ATM Balance: $448000.00
+Transaction Date: 2023-11-02 19:56:03
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $15000.00
+New Account Balance: $424000.00
+ATM Balance: $418000.00
+Transaction Date: 2023-11-02 20:00:43
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $11000.00
+New Account Balance: $413000.00
+ATM Balance: $396000.00
+Transaction Date: 2023-11-02 20:00:50
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $15000.00
+New Account Balance: $398000.00
+ATM Balance: $366000.00
+Transaction Date: 2023-11-02 20:01:50
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $11000.00
+New Account Balance: $387000.00
+ATM Balance: $344000.00
+Transaction Date: 2023-11-02 20:01:56
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $15000.00
+New Account Balance: $372000.00
+ATM Balance: $314000.00
+Transaction Date: 2023-11-02 21:14:56
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $11000.00
+New Account Balance: $361000.00
+ATM Balance: $292000.00
+Transaction Date: 2023-11-02 21:15:05
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $15000.00
+New Account Balance: $346000.00
+ATM Balance: $262000.00
+Transaction Date: 2023-11-02 21:15:45
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10000.00
+New Account Balance: $336000.00
+ATM Balance: $242000.00
+Transaction Date: 2023-11-02 21:15:52
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $1000.00
+New Account Balance: $335000.00
+ATM Balance: $240000.00
+Transaction Date: 2023-11-02 21:15:59
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $15000.00
+New Account Balance: $320000.00
+ATM Balance: $210000.00
+Transaction Date: 2023-11-02 21:28:36
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $11000.00
+New Account Balance: $309000.00
+ATM Balance: $188000.00
+Transaction Date: 2023-11-02 21:28:59
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: sumeda
+Account Number: 1478523690
+Card Serial Number: 124785369
+Transaction Amount: $0.00
+New Account Balance: $26000.00
+ATM Balance: $188000.00
+Transaction Date: 2023-11-03 22:06:24
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: sumeda
+Account Number: 1478523690
+Card Serial Number: 124785369
+Transaction Amount: $0.00
+New Account Balance: $26000.00
+ATM Balance: $188000.00
+Transaction Date: 2023-11-03 22:06:24
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: sumeda
+Account Number: 1478523690
+Card Serial Number: 124785369
+Transaction Amount: $0.00
+New Account Balance: $26000.00
+ATM Balance: $188000.00
+Transaction Date: 2023-11-03 22:06:24
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: sumeda
+Account Number: 1478523690
+Card Serial Number: 124785369
+Transaction Amount: $0.00
+New Account Balance: $26000.00
+ATM Balance: $188000.00
+Transaction Date: 2023-11-03 22:06:24
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: sumeda
+Account Number: 1478523690
+Card Serial Number: 124785369
+Transaction Amount: $0.00
+New Account Balance: $26000.00
+ATM Balance: $188000.00
+Transaction Date: 2023-11-03 22:06:24
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $15000.00
+New Account Balance: $294000.00
+ATM Balance: $158000.00
+Transaction Date: 2023-11-03 22:16:57
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10000.00
+New Account Balance: $284000.00
+ATM Balance: $138000.00
+Transaction Date: 2023-11-03 22:19:01
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $1000.00
+New Account Balance: $283000.00
+ATM Balance: $136000.00
+Transaction Date: 2023-11-03 22:19:11
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10.00
+New Account Balance: $283010.00
+ATM Balance: $136000.00
+Transaction Date: 2023-11-03 22:46:15
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $10.00
+New Account Balance: $283000.00
+ATM Balance: $135980.00
+Transaction Date: 2023-11-03 22:47:48
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: ss
+Account Number: 2135853621
+Card Serial Number: 3234345667
+Transaction Amount: $15000.00
+New Account Balance: $15000.00
+ATM Balance: $105980.00
+Transaction Date: 2023-11-08 19:05:38
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: ss
+Account Number: 2135853621
+Card Serial Number: 3234345667
+Transaction Amount: $11000.00
+New Account Balance: $4000.00
+ATM Balance: $83980.00
+Transaction Date: 2023-11-08 19:05:58
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: ss
+Account Number: 2135853621
+Card Serial Number: 3234345667
+Transaction Amount: $400.00
+New Account Balance: $3600.00
+ATM Balance: $83180.00
+Transaction Date: 2023-11-08 19:06:13
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: ss
+Account Number: 2135853621
+Card Serial Number: 3234345667
+Transaction Amount: $10.00
+New Account Balance: $3590.00
+ATM Balance: $83160.00
+Transaction Date: 2023-11-08 19:06:21
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: ss
+Account Number: 2135853621
+Card Serial Number: 3234345667
+Transaction Amount: $10.00
+New Account Balance: $3580.00
+ATM Balance: $83140.00
+Transaction Date: 2023-11-08 19:06:26
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: ss
+Account Number: 2135853621
+Card Serial Number: 3234345667
+Transaction Amount: $10.00
+New Account Balance: $3570.00
+ATM Balance: $83120.00
+Transaction Date: 2023-11-08 19:06:31
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: ss
+Account Number: 2135853621
+Card Serial Number: 3234345667
+Transaction Amount: $10.00
+New Account Balance: $3560.00
+ATM Balance: $83100.00
+Transaction Date: 2023-11-08 19:06:38
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $15000.00
+New Account Balance: $268000.00
+ATM Balance: $53100.00
+Transaction Date: 2023-11-08 19:12:40
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $11000.00
+New Account Balance: $257000.00
+ATM Balance: $31100.00
+Transaction Date: 2023-11-08 19:12:47
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $15000.00
+New Account Balance: $242000.00
+ATM Balance: $1100.00
+Transaction Date: 2023-11-08 22:11:12
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $15000.00
+New Account Balance: $227000.00
+ATM Balance: $970000.00
+Transaction Date: 2023-11-08 22:13:15
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $11000.00
+New Account Balance: $216000.00
+ATM Balance: $948000.00
+Transaction Date: 2023-11-08 22:13:20
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $15000.00
+New Account Balance: $201000.00
+ATM Balance: $918000.00
+Transaction Date: 2023-11-08 22:26:49
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $15000.00
+New Account Balance: $186000.00
+ATM Balance: $888000.00
+Transaction Date: 2023-11-08 22:35:17
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $15000.00
+New Account Balance: $171000.00
+ATM Balance: $858000.00
+Transaction Date: 2023-11-08 22:35:49
+------------------------
+------------------------
+Receipt for ATM Transaction
+------------------------
+Card Holder: JohnDoe
+Account Number: 9876543210
+Card Serial Number: 1234567890
+Transaction Amount: $15000.00
+New Account Balance: $156000.00
+ATM Balance: $828000.00
+Transaction Date: 2023-11-08 22:39:21
